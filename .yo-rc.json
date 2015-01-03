@@ -1,0 +1,18 @@
+{
+  "generator-backbone-marionette": {
+    "bootstrapFormat": "sass",
+    "templateFramework": "handlebars",
+    "includeFontAwesome": true,
+    "file": "${file}"
+  },
+  "generator-backbone": {
+    "appPath": "app",
+    "appName": "Pg",
+    "coffee": false,
+    "testFramework": "mocha",
+    "templateFramework": "lodash",
+    "compassBootstrap": true,
+    "includeRequireJS": true
+  },
+  "generator-mocha": {}
+}
